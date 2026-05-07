@@ -5,8 +5,6 @@ Machine Learning student at the University of Sydney, focused on large language 
 
 - LLM application development
 - Retrieval-Augmented Generation
-- Agentic workflows and tool-using AI systems
 - Practical machine learning algorithms
-- Evaluation and reliability of AI applications
 - Backend systems for AI products
 
