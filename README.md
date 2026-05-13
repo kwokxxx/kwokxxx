@@ -5,6 +5,6 @@ Machine Learning student at the University of Sydney, focused on large language 
 
 - LLM application development
 - Retrieval-Augmented Generation
-- Practical machine learning algorithms
+- Machine learning algorithms
 - Backend systems for AI products
 
